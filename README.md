@@ -1,4 +1,4 @@
 MultiUIApp
 ==========
 
-Simple application showing how to produce app wirking with different UI's
+Simple application showing how to produce app working with different UI's
